@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Matan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moshe</h1>
 <h3 align="center">I'm a Front End Developer from Israel.</h3>
 
 
@@ -31,5 +31,5 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/matan-bitton-90a054210/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/moshe-moshaev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
