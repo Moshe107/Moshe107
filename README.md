@@ -17,6 +17,21 @@
 
 - ⚡ Fun fact **I like Science, Sports, and Sunsets.**
 
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=eshlomo1&show_icons=true&theme=dark&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshlomo1&layout=compact&theme=dark)
+
+**Custom Language Focus**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-Security-blue?logo=powershell)
+![Go](https://img.shields.io/badge/Go-OffSec-green?logo=go)
+![Python](https://img.shields.io/badge/Python-AI_Research-yellow?logo=python)
+![KQL](https://img.shields.io/badge/KQL-Threat_Hunting-orange)
+![YAML](https://img.shields.io/badge/YAML-Automation-gray)
+![JSON](https://img.shields.io/badge/JSON-API_Telemetry-lightgrey)
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
